@@ -36,15 +36,19 @@ Windows Registry Editor Version 5.00
 
 ~~~
 <br>
-🟡 備考 :
-
-🔸 大文字/小文字の区別<br>
+🟡 備考 :<br>
+🔸大文字/小文字の区別<br>
 　　　HKEY_CURRENT_USER\Software<br>
 　　　HKEY_LOCAL_MACHINE\SOFTWARE
 <br>
-🔸 コメントは、**;** (セミコロン)
+🔸コメントは、; (セミコロン)
 <br>
-🔸 エンコーディング : UTF-16 BOM付
+🔸エンコーディング : UTF-16 BOM付
 <br>
 <br>
+
+---
+🟨 更新履歴 :<br>
+
+**2026-01-24** 公開
 
