@@ -32,7 +32,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\********]
 "*****"=*****
 
-; 備考など(必要と思われる場合のみ)
+; 備考など(必要と思われる場合)
 
 ~~~
 <br>
